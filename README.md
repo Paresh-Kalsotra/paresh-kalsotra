@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align="left">Hi 👋! My name is Paresh Kalsotra.
+<h3 align="left">Hi 👋! My name is Paresh Kalsotra.
   I'm a Electronics and Communication Engineering student from J&K ,INDIA.
-  I had strong skill set in Software development, Web Development, IoT and Embedded systems.</h4>
+  I had strong skill set in Software development, Web Development, IoT and Embedded systems.</h3>
 
 ###
 
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -40,10 +40,15 @@ Here are some ideas to get you started:
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-kalsotra&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paresh-kalsotra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=paresh-kalsotra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+
+
 
 ###
 <!--
