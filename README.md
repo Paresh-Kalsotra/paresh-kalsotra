@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Hi 👋! My name is Paresh Kalsotra.
-  I'm a Electronics and Communication Engineering student from J&K ,INDIA.
+  I am an Electronics and Communication Engineering student from, INDIA.
   I am interested in  Software development, Web Development, IoT and Embedded systems.</h3>
 
 ###
