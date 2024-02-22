@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Hi 👋! My name is Paresh Kalsotra.
   I'm a Electronics and Communication Engineering student from J&K ,INDIA.
-  I had strong skill set in Software development, Web Development, IoT and Embedded systems.</h3>
+  I am interested in  Software development, Web Development, IoT and Embedded systems.</h3>
 
 ###
 
